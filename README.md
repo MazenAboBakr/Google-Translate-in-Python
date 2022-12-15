@@ -1,7 +1,11 @@
 # Google-Translate-in-Python
 
 Made By: Mazen AboBakr
+
+
 Session Code: #5702
+
+
 Session Lead : Ahmed Sherif
 
 
